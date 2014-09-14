@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//james raygor rules
 public class Enemy : MonoBehaviour
 {
 
